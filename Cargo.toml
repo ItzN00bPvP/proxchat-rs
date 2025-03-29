@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 authors = ["Philipp_DE", "EnderKill98"]
-license = "CC0-1"
+license = "CC0-1.0"
 description = "Rust Util for https://github.com/EnderKill98/ProxChat/ Encoding only for now"
 homepage = "https://n00bbot.pet/"
 repository = "https://github.com/ItzN00bPvP/proxchat-rs/"
