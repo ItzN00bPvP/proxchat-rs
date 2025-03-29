@@ -1,5 +1,5 @@
 [package]
-name = "proxchat-rs"
+name = "proxchat"
 version = "0.1.0"
 edition = "2024"
 
@@ -7,7 +7,7 @@ authors = ["Philipp_DE", "EnderKill98"]
 license = "CC0-1"
 description = "Rust Util for https://github.com/EnderKill98/ProxChat/ Encoding only for now"
 homepage = "https://n00bbot.pet/"
-repository = "http"
+repository = "https://github.com/ItzN00bPvP/proxchat-rs/"
 
 [dependencies]
 glam = "0.30.1"
